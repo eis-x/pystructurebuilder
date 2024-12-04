@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pystructurebuilder"
-version = "1.0.2"
+version = "1.0.3"
 description = "A Python module to generate a detailed description of a project's directory structure."
 authors = [
     { name = "eis-x", email = "eis-x@hotmail.com" }

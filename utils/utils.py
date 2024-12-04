@@ -8,4 +8,4 @@ Git Repository: https://github.com/eis-x/pystructurebuilder
 
 # Application name and version
 name = "pystructurebuilder"
-version = "1.0.2"
+version = "1.0.3"
