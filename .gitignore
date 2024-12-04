@@ -148,9 +148,9 @@ TestResults.xml
 logs/
 
 # Ignore the git automation scripts
-git_auto.ps1
-git_auto.sh
-git_auto_sh_readme.txt
+auto_git.ps1
+auto_git.sh
+auto_git_sh_readme.txt
 
 # Ignore pypi token file
 pypi_tok.tok
